@@ -8,6 +8,6 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 * Lectura de referencias indicadas a pie de página
 * Instalar [Python 3.11](https://www.python.org/downloads/release/python-3113/)
 
-![https://escuelaing.s3.amazonaws.com/production/images/header-estudiantes-en-salon-de-clase_h0MWC8.min-1440x700.jpg?AWSAccessKeyId=AKIAWFY3NGTFD5OU3IGB&Signature=Okj4IhluObSNBrpYOsETv%2B3Ja1s%3D&Expires=1686240298]()
+![](https://escuelaing.s3.amazonaws.com/production/images/header-estudiantes-en-salon-de-clase_h0MWC8.min-1440x700.jpg?AWSAccessKeyId=AKIAWFY3NGTFD5OU3IGB&Signature=Okj4IhluObSNBrpYOsETv%2B3Ja1s%3D&Expires=1686240298)
 
 dddd
